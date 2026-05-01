@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHFmaoXsU6E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Uni\\Software\\SmartTrafficController\\SmartTrafficController\\SmartTrafficController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
